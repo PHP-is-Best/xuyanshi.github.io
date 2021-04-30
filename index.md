@@ -1,8 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/PHP-is-Best/xuyanshi.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 我的简介
+我于2018年在南开大学获得物理学学士学位，于2020年在北京大学获得软件工程学士学位。在2020年7月-12月期间，我在百度从事CV算法测试工作。
 
 ### Markdown
 
